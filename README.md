@@ -17,5 +17,3 @@
 - Playing
 - Reading manhwa and other things
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
