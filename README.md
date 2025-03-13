@@ -1,5 +1,5 @@
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=900&size=50&duration=4000&pause=300&color=A7A459&multiline=true&repeat=false&random=false&width=700&height=100&lines=Hi%2C+my+name+is+Jonatan" width="100%" />
-<!-- Este é um comentário. Ele não aparecerá no GitHub. -->
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=900&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=Hi%2C+my+name+is+Jonatan" width="70%" />
+
 <ins> I'm a data science and artificial intelligence student at PUCRS - Brazil <br> </ins>
 My goal is to learn about the creation and development/implementation of AI so that they can do things for help someone.
 
